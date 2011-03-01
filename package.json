@@ -13,5 +13,9 @@
   },
   "engines": {
     "node": "*"
-  }
+  },
+  "licenses" : [ { 
+    "type" : "MIT",
+      "url" : "http://github.com/dtrejo/gss/raw/master/LICENSE"
+    } ]
 }
