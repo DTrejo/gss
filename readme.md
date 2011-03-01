@@ -6,6 +6,8 @@ A line search technique to help you find the minimum or maximum of a function. I
 How to use
 ===
 
+    npm install gss
+
 The arguments are a bit bad, but here's how you'd use it:
 
     gss(asyncFunctionToMinimize, lowerBound, middleNumber, upperBound, precision, callback(err, min))
