@@ -1,7 +1,7 @@
 {
   "name": "gss",
   "description": "Golden Section Search for javascript. (a line search technique used to minimize or maximize the output a function, also known as `argmax`).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/DTrejo/gss.git"
