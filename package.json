@@ -7,6 +7,7 @@
     "url": "git://github.com/DTrejo/gss.git"
   },
   "author": "David Trejo <david+npm@dtrejo.com> (http://dtrejo.com/)",
+  "maintainers": [ "David Trejo <david.daniel.trejo+npm@gmail.com> (http://dtrejo.com/)" ],
   "main": "gss.js",
   "directories": {
     "lib": "."
