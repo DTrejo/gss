@@ -1,13 +1,15 @@
 {
   "name": "gss",
   "description": "Golden Section Search for javascript. (a line search technique used to minimize or maximize the output a function, also known as `argmax`).",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/DTrejo/gss.git"
   },
   "author": "David Trejo <david+npm@dtrejo.com> (http://dtrejo.com/)",
-  "maintainers": [ "David Trejo <david.daniel.trejo+npm@gmail.com> (http://dtrejo.com/)" ],
+  "maintainers": [
+    "David Trejo <david.daniel.trejo+npm@gmail.com> (http://dtrejo.com/)"
+  ],
   "main": "gss.js",
   "directories": {
     "lib": "."
@@ -18,9 +20,15 @@
   "devDependencies": {
     "underscore": "~1.3.0"
   },
-  "scripts": { "test": "node test/async.js && node test/sync.js" },
-  "licenses" : [ { 
-    "type" : "MIT",
-      "url" : "http://github.com/dtrejo/gss/raw/master/LICENSE"
-    } ]
+  "scripts": {
+    "test": "node test/async.js && node test/sync.js"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/dtrejo/gss/raw/master/LICENSE"
+    }
+  ],
+  "dependencies": {},
+  "optionalDependencies": {}
 }
