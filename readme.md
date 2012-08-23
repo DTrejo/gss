@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/DTrejo/gss.png)](http://travis-ci.org/DTrejo/gss)
 Golden Section Search
 ===
 
